@@ -171,6 +171,11 @@
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
+            <dependency>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <version>2.5</version>
+            </dependency>
 
             <!--Broadleaf libraries -->
             <dependency>
